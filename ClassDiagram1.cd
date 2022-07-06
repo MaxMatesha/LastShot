@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BonusBar">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAEIAEAAQAAIAAABAAAIAAAECAAAAgAGAAgA=</HashCode>
+      <FileName>Assets\Scripts\Bonuses\BonusBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BonusDamage">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAIAAABAAAAAABAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Bonuses\BonusDamage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BonusJump">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAACAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Bonuses\BonusJump.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BonusReload">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACABAAAAAAABAAAAAABAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Bonuses\BonusReload.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BonusSpeed">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAQEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Bonuses\BonusSpeed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="22" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAAAQAAAAAAAAAAAEAAAAABAIAACABAAAg=</HashCode>
+      <FileName>Assets\Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyTrigger">
+    <Position X="22" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthBar">
+    <Position X="20.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAACAAAAAAQAAAAAAAgAAAACCASAAEAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\HealthBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthController">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\HealthController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMenu">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\MainMenu\GameMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelSelection">
+    <Position X="23.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAgAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\MainMenu\LevelSelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="15" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainMenu\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Settings">
+    <Position X="18.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgIABBAAAAAAAABAAAAAAAAQAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainMenu\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Victory">
+    <Position X="18.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQgAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainMenu\Victory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaminaBar">
+    <Position X="20.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAACAAAAAAQAAAAAAAgAAAACCASAAEAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\StaminaBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level2">
+    <Position X="22" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQgAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\WasterlandNight\Level2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ACR">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEQAEghIACIYxgAAAACCQgAIEiAEBwKQCRQAIBCIAAI=</HashCode>
+      <FileName>Assets\Scripts\Weapons\ACR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletProjector">
+    <Position X="18.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAACAAAAAAAAAAAAAAAAAABAQAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Weapons\BulletProjector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="M16">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAEghIACIYxgAAAACCQgAIEiAEBwKQCRQAIBCIAAI=</HashCode>
+      <FileName>Assets\Scripts\Weapons\M16.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionWeapons">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAQAAAAAAEAIAAQAAAUAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\Weapons\SelectionWeapons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponSway">
+    <Position X="16.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAACAAAAAAAAEAAAAAAAAAgAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Weapons\WeaponSway.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZombieEnemy">
+    <Position X="16.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAQAAACAACAAgQAAAAAAAABAAEAAAAABAIAICAFAAAg=</HashCode>
+      <FileName>Assets\Scripts\ZombieEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityStandardAssets.Characters.FirstPerson.FirstPersonController">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kQQChBAKAiAUMMQAAAwiSAAQAQAigAAUGCoQSAhBAYg=</HashCode>
+      <FileName>Assets\Scripts\FirstPersonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
